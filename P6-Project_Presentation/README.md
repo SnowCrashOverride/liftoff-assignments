@@ -8,3 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+[GitHub](https://github.com/SnowCrashOverride/liftoff-assignments/blob/master/Andrew%20Dolan%20project%20presentation.pdf)
